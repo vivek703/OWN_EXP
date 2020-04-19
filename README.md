@@ -1,1 +1,3 @@
-# rasp_pi
+#Just to pass time
+===========================
+Project for Linux Fun
