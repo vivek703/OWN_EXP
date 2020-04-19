@@ -175,6 +175,6 @@ module_init(etx_driver_init);
 module_exit(etx_driver_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("EmbeTronicX <embetronicx@gmail.com or admin@embetronicx.com>");
+MODULE_AUTHOR("Vivek Pandey");
 MODULE_DESCRIPTION("A simple device driver - Interrupts");
-MODULE_VERSION("1.9");
+MODULE_VERSION("1.0");
