@@ -1,0 +1,1 @@
+cmd_/home/vivek/Desktop/test/sysfs/driver.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/vivek/Desktop/test/sysfs/driver.ko /home/vivek/Desktop/test/sysfs/driver.o /home/vivek/Desktop/test/sysfs/driver.mod.o
