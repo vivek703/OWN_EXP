@@ -48,6 +48,7 @@ int sockMerchant(int n, int ar_count, int* ar)
     }
     t+=c/2;
     return t;
+
 }
 
 int main(int argc, char *argv[])
